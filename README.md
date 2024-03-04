@@ -67,3 +67,11 @@
 =================
 
 ![doctor details](https://user-images.githubusercontent.com/89769715/231528321-679c07ec-d1b5-4bdb-9f41-ea83b3f3155a.png)
+
+
+
+
+Feel free to contribute and improve this project!
+
+## Project Author
+Akash Shinge
